@@ -1,7 +1,8 @@
 #include <stdio.h>
 using namespace std;
+int n,k;
 int main()
 {
-    /*Overide*/
+    scanf("%d%d",&k,&n);
     return 0;
 }
